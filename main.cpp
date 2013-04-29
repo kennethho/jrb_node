@@ -7,7 +7,7 @@
 #include <iostream>
 #include <map>
 #include <string>
-#include <boost\test\unit_test.hpp>
+#include <boost/test/unit_test.hpp>
 
 using namespace jrb_node;
 #ifdef JRB_NODE_SSL
